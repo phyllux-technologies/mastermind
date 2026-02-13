@@ -15,9 +15,19 @@
 
 Modules are **sold separately**. Purchase on [Gumroad](https://phyllux.gumroad.com).
 
-**Available modules:**
-- **[Quality Hierarchy](https://phyllux.gumroad.com/l/tkkldi)** — Pirsig levels, level-aware propagation. *Available now.*
-- DQ/SQ Lens, Care Lens, Governor, Atomic Main Memory, GTD Bridge, Second Brain Mode, ENGENICA Polish, Lexical Chain, Flux Mode, Language Lens, Gumption Traps, Process Lens, Tacit Capture, 5W1H Extended, and more — *rolling out soon.*
+**Available modules (live on Gumroad):**
+- **[Quality Hierarchy](https://phyllux.gumroad.com/l/tkkldi)** — Pirsig levels, level-aware propagation
+- **[DQ/SQ Lens](https://phyllux.gumroad.com/l/feqvx)** — Change vs stasis, Quantonics
+- **[Care Lens](https://phyllux.gumroad.com/l/dizfsl)** — Care/attention in propagation
+- **[Governor](https://phyllux.gumroad.com/l/siezua)** — Convergence, cycle guard, audit
+- **[ENGENICA Polish](https://phyllux.gumroad.com/l/yuiegt)** — Spectographic analysis, polish pass
+- **[GTD Bridge](https://phyllux.gumroad.com/l/zcpffu)** — Next actions, contexts, weekly review
+- **[Atomic Main Memory](https://phyllux.gumroad.com/l/vgpng)** — Zettelkasten atomicity, links
+- **[Second Brain Mode](https://phyllux.gumroad.com/l/eupuv)** — CODE workflow, PARA
+- **[Flux Mode](https://phyllux.gumroad.com/l/ymenza)** — Process-centric, thread-aware
+- **[5W1H Extended](https://phyllux.gumroad.com/l/dfnqp)** — Who/What/When/Where/Why/How form
+
+Lexical Chain, Language Lens, Gumption Traps, Process Lens, Tacit Capture, Quanton Evaluation — *rolling out soon.*
 
 **Catalog:** See docs/ecosystem/03_SELLABLE_IMPROVEMENT_MODULES.md.
 
