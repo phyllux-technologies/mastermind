@@ -1,0 +1,15 @@
+---
+description: MASTERMIND coordination — read mastermind.md for "new idea" or cross-project work
+globs: ["mastermind.md", "mastermind/**", "**/MASTERMIND_LINK.md"]
+---
+
+# MASTERMIND Coordination
+
+When working on mastermind.md, mastermind/, or MASTERMIND_LINK.md, or when the user says "new idea", "improve the system", or "read mastermind":
+
+1. **Read** mastermind.md first.
+2. **For new idea:** Add to mastermind/core/memory/main_memory.md → run mastermind/core/processes/improvement_propagation.md.
+3. **For improve the system:** Follow mastermind.md §4 — identify gaps, improve, document in core/CHANGELOG.md.
+4. **Totality check** before finishing: Who? What? When? Where? Why? How?
+
+MASTERMIND — A system that improves all systems. By David Edward Sproule & Cursor AI.

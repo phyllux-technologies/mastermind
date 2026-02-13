@@ -1,0 +1,37 @@
+# MASTERMIND — Git Ignore
+
+# User-specific (do not commit)
+config/mission.md
+config/local_paths.md
+*.local.md
+docs/ecosystem/MERCHANT_SETUP.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Cursor workspace cache images (mangled paths)
+**/c__*
+
+# Temp
+tmp/
+temp/
+*.tmp
+
+# Generated delivery zips
+*-delivery.zip
+
+# Do NOT ignore (these should be committed)
+!config/mission.example.md
+!config/config.example.md
