@@ -2,7 +2,7 @@
 
 **Purpose:** Catalog of installable, sellable improvement modules for MASTERMIND. Concepts drawn from Quantonics, Metaphysics of Quality, Zettelkasten, Building a Second Brain, and other frameworks. Each module adds distinct value; adopters choose what improves their system.
 
-**Status:** Strategic catalog. Informs product development and licensing.
+**Status:** Strategic catalog. **Advertising only** — no implementation details. Full module content delivered upon purchase.
 
 **Attribution:** Concepts sourced from public philosophy, productivity research, and open frameworks. Each module credits its origins. Commercial packaging adds implementation, integration, and support.
 
@@ -35,40 +35,37 @@ Modules are **sellable** when they deliver measurable value. **Installable** mea
 
 ![DQ/SQ explainer](../../assets/mastermind-explainer-dq-sq.png)
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **DQ/SQ evaluation** | MoQ + Quantonics | Propagation evaluates each idea as quanton(DQ,SQ): Does it favor change (DQ) or stasis (SQ)? Is stasis temporary (good) or exclusive (bad)? | Better propagation decisions; avoids "frozen" improvements |
-| **Change vs. stasis tagging** | MoQ Essence | Tag Main Memory entries: DQ (change), SQ-temporary, SQ-exclusive | Improves filtering; prevents runaway stasis |
-| **Complementarity** | Quantonics | Evaluate ideas as both/and pairs, not either/or. Include-middle logic in propagation. | Richer evaluation; fewer false dichotomies |
+| **DQ/SQ evaluation** | MoQ + Quantonics | Change vs. stasis evaluation built into propagation | Better decisions; avoids frozen improvements |
+| **Complementarity** | Quantonics | Both/and logic instead of either/or | Richer evaluation; fewer false dichotomies |
 
 **Module:** `Quality Lens` — Adds DQ/SQ and complementarity to propagation. Premium.
 
 ### 2.2 Quanton / Meme Model
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Ideas as quantons** | Quanton Primer | Treat ideas as quanton(nonactuality, actuality) — they carry change and carry potential. | Models ideas as flux, not static objects |
-| **Memes as change-carriers** | Dawkins + Quantonics | Ideas as memes: viral, metaphoric, emergent. Propagation = meme spread. | Reframes propagation in memetic terms |
-| **Attractor model** | Quanton Primer | DQ and SQ as attractors. Ideas attract toward change or stasis. | Visual model for propagation targets |
+| **Ideas as quantons** | Quanton Primer | Quanton semantics for Main Memory | Models ideas as flux, not static objects |
+| **Memes as change-carriers** | Dawkins + Quantonics | Meme-aware propagation framing | Reframes propagation in memetic terms |
 
 **Module:** `Quanton Evaluation` — Quanton/meme semantics for Main Memory and propagation. Premium. *License/attribution: Quantonics concepts; implementation original.*
 
 ### 2.3 Flux / Process Thinking
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Reality as flux** | Quantonics | Main Memory and projects as flux, not fixed objects. Entries evolve. | Reduces over-rigid documentation |
-| **Threads across systems** | Quanton Primer | Propagation threads: affect local and cross-system. Bifurcate, tunnel, oscillate. | Richer propagation paths |
-| **Included-middle logic** | Quantonics | Both/and over either/or. Avoid dialectic traps. | Better conflict resolution in propagation |
+| **Reality as flux** | Quantonics | Process-centric view of Main Memory and projects | Reduces over-rigid documentation |
+| **Threads across systems** | Quanton Primer | Cross-system propagation awareness | Richer propagation paths |
 
 **Module:** `Flux Mode` — Process-centric Main Memory; thread-aware propagation. Premium.
 
 ### 2.4 English / Language Remediation
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Problematic terms list** | Quantonics | Flag classical terms that imply exclusivity. Suggest quantum alternatives. | Improves idea clarity; reduces SOM (subject-object) framing |
-| **Quantonic vocabulary** | Quantonics | Optional glossary: change vs. stasis, complement vs. dichotomy, etc. | Shared language for teams using MoQ/Quantonics |
+| **Term remediation** | Quantonics | Term flags and alternative suggestions | Improves idea clarity |
+| **Quantonic vocabulary** | Quantonics | Glossary for MoQ/Quantonics concepts | Shared language for teams |
 
 **Module:** `Language Lens` — Term flags, glossary, suggestions. Add-on to Quality Lens. Premium.
 
@@ -82,29 +79,28 @@ Modules are **sellable** when they deliver measurable value. **Installable** mea
 
 ![Quality hierarchy](../../assets/mastermind-quality-hierarchy.png)
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Levels of Static Quality** | Lila | Inorganic → Biological → Social → Intellectual → (Mystic). Evaluate ideas by which level they serve. | Ensures improvements don't serve only lower levels |
-| **Level-aware propagation** | MoQ | "Does this improvement serve intellectual quality or merely social/inorganic?" | Prevents mission drift |
-| **Dynamic Quality check** | MoQ | "Does this preserve change, or freeze it?" | Aligns with DQ/SQ from Quantonics |
+| **Levels of Static Quality** | Lila | Level-aware evaluation built into propagation | Ensures improvements serve higher levels |
+| **Dynamic Quality check** | MoQ | Change-preservation evaluation | Aligns with DQ/SQ from Quantonics |
 
-**Module:** `Quality Hierarchy` — Level tags (inorganic–intellectual); propagation evaluates against hierarchy. Premium. *Attribution: Robert Pirsig, MoQ.*
+**Module:** `Quality Hierarchy` — Propagation evaluates against Pirsig's quality hierarchy. Premium. *Attribution: Robert Pirsig, MoQ.*
 
 ### 3.2 Care / Attention
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Care as Quality** | Zen and the Art | Phaedrus: care is prior to technology. Add "care" dimension to propagation. | Ensures improvements don't sacrifice human care |
-| **Attention to the thing** | Pirsig | Propagation asks: "Are we giving this idea proper attention?" | Reduces superficial improvements |
+| **Care as Quality** | Zen and the Art | Care dimension in propagation evaluation | Ensures improvements don't sacrifice human care |
+| **Attention to the thing** | Pirsig | Attention-quality scoring | Reduces superficial improvements |
 
 **Module:** `Care Lens` — Care/attention scoring in propagation. Premium. *Attribution: Robert Pirsig.*
 
 ### 3.3 Gumption / Knack
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Gumption traps** | Zen and the Art | Out-of-sequence, value rigidity, anxiety. Flag these in propagation. | Reduces blocked or misdirected improvements |
-| **Knack** | Pirsig | Tacit knowledge. Module helps capture "knack" in Main Memory. | Preserves experiential wisdom |
+| **Gumption traps** | Zen and the Art | Trap-detection checklist for propagation | Reduces blocked or misdirected improvements |
+| **Knack** | Pirsig | Tacit-knowledge capture prompts | Preserves experiential wisdom |
 
 **Module:** `Gumption Traps` — Checklist and flags for propagation. Add-on. Premium.
 
@@ -116,22 +112,22 @@ Modules are **sellable** when they deliver measurable value. **Installable** mea
 
 ### 4.1 Atomic Ideas
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Atomic notes** | Zettelkasten | One idea per Main Memory entry. Split compound ideas. | Cleaner propagation; no overloaded entries |
-| **Linked ideas** | Zettelkasten | Ideas link to each other. Propagation follows links. | Richer idea networks |
-| **Fleeting → permanent** | Zettelkasten | Workflow: capture fleeting, process to permanent. | Better idea lifecycle |
+| **Atomic notes** | Zettelkasten | Atomic structure for Main Memory | Cleaner propagation; no overloaded entries |
+| **Linked ideas** | Zettelkasten | Linking and propagation following links | Richer idea networks |
+| **Fleeting → permanent** | Zettelkasten | Capture-to-permanent workflow | Better idea lifecycle |
 
 **Module:** `Atomic Main Memory` — Atomic structure, linking, processing workflow. Premium.
 
 ### 4.2 Second Brain / CODE
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Capture** | BASB | Easier capture from multiple sources (CLI, web, mobile). | More ideas captured |
-| **Organize** | BASB | PARA or similar: Projects, Areas, Resources, Archives. | Clear structure |
-| **Distill** | BASB | Progressive summarization. "What's the one thing?" | Sharper ideas for propagation |
-| **Express** | BASB | Output-focused. Propagate to create output. | Action-oriented propagation |
+| **Capture** | BASB | Multi-source capture support | More ideas captured |
+| **Organize** | BASB | Clear organizational structure | Projects, areas, resources |
+| **Distill** | BASB | Progressive summarization | Sharper ideas for propagation |
+| **Express** | BASB | Output-focused propagation | Action-oriented propagation |
 
 **Module:** `Second Brain Mode` — CODE workflow integrated with Main Memory and propagation. Premium. *Attribution: Tiago Forte, Building a Second Brain.*
 
@@ -141,20 +137,20 @@ Modules are **sellable** when they deliver measurable value. **Installable** mea
 
 ### 5.1 GTD Integration
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Next actions** | GTD | Propagation produces next actions. Sync to task system. | Clear follow-through |
-| **Contexts** | GTD | Tag ideas by context (computer, phone, etc.). | Context-aware propagation |
-| **Weekly review** | GTD | Scheduled propagation run. | Regular improvement habit |
+| **Next actions** | GTD | Next-action output from propagation | Clear follow-through |
+| **Contexts** | GTD | Context-aware propagation | Computer, phone, etc. |
+| **Weekly review** | GTD | Scheduled propagation runs | Regular improvement habit |
 
 **Module:** `GTD Bridge` — Next-action output, context tags, review schedule. Premium. *Attribution: David Allen, GTD.*
 
 ### 5.2 5W1H / Strategic Alignment
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **5W1H** | Strategy / Journalism | Who, What, When, Where, Why, How — applied to each idea and propagation run. | Already in Core (totality check). Module: structured 5W1H form. |
-| **Strategic alignment** | Various | Propagation evaluates against explicit strategy doc. | Mission alignment |
+| **5W1H** | Strategy / Journalism | Structured 5W1H form for ideas and runs | Extends Core totality check |
+| **Strategic alignment** | Various | Strategy-aware propagation evaluation | Mission alignment |
 
 **Module:** `5W1H Extended` — Form-based 5W1H for ideas and runs. Premium (extends free totality check).
 
@@ -162,11 +158,11 @@ Modules are **sellable** when they deliver measurable value. **Installable** mea
 
 ## 6. From Process Philosophy / Bergson
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Duration** | Bergson | Ideas have duration, not just date. "How long has this been evolving?" | Temporal awareness |
-| **Process over substance** | Bergson, Whitehead | Focus on process of improvement, not fixed outputs. | Aligns with flux thinking |
-| **Creative evolution** | Bergson | Propagation as creative evolution. Novelty over repetition. | Encourages genuine novelty |
+| **Duration** | Bergson | Temporal awareness for ideas | Evolution over time |
+| **Process over substance** | Bergson, Whitehead | Process-centric evaluation | Aligns with flux thinking |
+| **Creative evolution** | Bergson | Novelty-aware propagation | Encourages genuine novelty |
 
 **Module:** `Process Lens` — Duration, process-centric evaluation. Premium. *Attribution: Henri Bergson.*
 
@@ -174,10 +170,10 @@ Modules are **sellable** when they deliver measurable value. **Installable** mea
 
 ## 7. From Polanyi / Tacit Knowledge
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Tacit dimension** | Polanyi | "We know more than we can tell." Module: prompts to surface tacit knowledge. | Captures experiential wisdom |
-| **Personal knowledge** | Polanyi | Knowledge is personal. Module: personal vs. shared tagging. | Clarifies knowledge ownership |
+| **Tacit dimension** | Polanyi | Prompts to surface tacit knowledge | Captures experiential wisdom |
+| **Personal knowledge** | Polanyi | Personal vs. shared tagging | Clarifies knowledge ownership |
 
 **Module:** `Tacit Capture` — Prompts, personal/shared tags. Premium. *Attribution: Michael Polanyi.*
 
@@ -189,31 +185,30 @@ Modules are **sellable** when they deliver measurable value. **Installable** mea
 
 ### ENGENICA Polish Module
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Spectographic analysis** | ENGENICA | Entropy, symmetry, fractal dimension on Main Memory entries or propagated text | Structural quality of ideas/docs |
-| **Optical nerve simulation** | ENGENICA | Quality-weighted detection of "ugly regions" in text | Identifies polish opportunities |
-| **Self-optimization** | ENGENICA | Framework improves itself; propagation could invoke ENGENICA polish pass | MASTERMIND + ENGENICA = coordinated polish |
+| **Spectographic analysis** | ENGENICA | Structural quality analysis on text | Improves idea/document quality |
+| **Polish opportunities** | ENGENICA | Quality-weighted improvement detection | Identifies polish opportunities |
+| **Self-optimization** | ENGENICA | Optional ENGENICA pass from propagation | MASTERMIND + ENGENICA coordination |
 
 **Module:** `ENGENICA Polish` — Optional ENGENICA pass on propagation output or Main Memory. Premium. *Attribution: David Sproule, ENGENICA.*
 
 ---
 
-## 7c. From Lexical Chain (complete/, Content Studio)
+## 7c. From Lexical Chain (Content Studio)
 
-*Lexical Chain: tools in sequence. Raw → Completeness Validator → ENGENICA → Validator → Utopia → Concept Extractor → Outline → FAQ → Glossary → Index → Convergence → Cycle Guard → Export.*
+*Lexical Chain: tool sequence for document refinement. Integrates with MASTERMIND propagation.*
 
 ### Lexical Chain Module
 
-| Concept | Source | Module Idea | Value |
+| Concept | Source | What It Adds | Value |
 |---------|--------|--------------|-------|
-| **Virtuous loop** | Lexical Chain | Validator + ENGENICA + convergence. MASTERMIND propagation IS a virtuous loop. | Document parallel; optional chain invocation |
-| **Concept extraction** | Lexical Chain | Main Memory ideas → concepts → outline → FAQ | Richer Main Memory derivatives |
-| **Convergence / cycle guard** | Lexical Chain | When does propagation stop? Avoid cycles. | Governor + convergence logic |
-| **Tool chaining** | Lexical Chain | MASTERMIND orchestrates. Propagation can invoke Validator, ENGENICA, Concept Extractor. | MASTERMIND as chain conductor |
-| **Studio Bridge pattern** | Content Studio | After polish, run Validator+ENGENICA. MASTERMIND could use same pattern. | Proven integration |
+| **Virtuous loop** | Lexical Chain | Optional chain invocation from propagation | Document-quality parallel |
+| **Concept extraction** | Lexical Chain | Main Memory → concepts → richer derivatives | Richer Main Memory output |
+| **Convergence / cycle guard** | Lexical Chain | Propagation stopping logic; cycle avoidance | Governor enhancement |
+| **Tool chaining** | Lexical Chain | MASTERMIND orchestrates optional tools | Chain conductor |
 
-**Module:** `Lexical Chain for Main Memory` — Optional: run concept extractor, outline, FAQ, glossary on Main Memory or propagated docs. Convergence/cycle guard in Governor. Premium. *Attribution: Lexical Chain Exploration, Content Studio.*
+**Module:** `Lexical Chain for Main Memory` — Optional concept extraction, outline, FAQ on Main Memory or propagated docs. Convergence/cycle guard in Governor. Premium. *Attribution: Lexical Chain Exploration, Content Studio.*
 
 ---
 
@@ -223,7 +218,7 @@ Modules are **sellable** when they deliver measurable value. **Installable** mea
 
 | Phase | Module | Concept | Complexity |
 |-------|--------|----------|------------|
-| 1 | **Quality Hierarchy** | Pirsig levels (inorganic → intellectual) | Low |
+| 1 | **Quality Hierarchy** | Pirsig quality hierarchy | Low |
 | 2 | **DQ/SQ Lens** | Quantonics/MoQ change vs. stasis | Low |
 | 3 | **Atomic Main Memory** | Zettelkasten atomicity, links | Medium |
 | 4 | **Governor** | Safety, audit, rollback | Medium |
@@ -245,14 +240,7 @@ Modules are **sellable** when they deliver measurable value. **Installable** mea
 
 ## 9. Module Interface (Technical)
 
-Modules plug into MASTERMIND via:
-
-| Interface | Purpose |
-|-----------|---------|
-| **Main Memory schema** | Optional fields (tags, levels, DQ/SQ, links) |
-| **Propagation hooks** | Pre-run, post-run, per-idea evaluation |
-| **CLI extensions** | `mm --module=quality-lens propagate` |
-| **Config** | `core/config/modules.yaml` — enable/disable, options |
+Modules plug into MASTERMIND via documented interfaces (propagation hooks, Main Memory extensions, config). *Implementation details in each purchased module.*
 
 ---
 

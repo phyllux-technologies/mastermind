@@ -3,6 +3,7 @@
 ---
 
 ## [Unreleased]
+- **Sellable catalog: advertise, don't reveal** — 03_SELLABLE_IMPROVEMENT_MODULES tightened. Replaced "Module Idea" (implementation details) with "What It Adds" (value-only). Removed verbatim propagation questions, exact level names, interface specifics. Keeps module names, sources, value props.
 - **Modules moved to private store** — Sellable module content removed from public repo. Lives in workspace/ROOT/MASTERMIND_MODULES_PRIVATE/. Repo now has only _template + README (purchase pointer). module-delivery-pack.py reads from private store.
 - **CLI learned_context** — Added learned_context.md to get_paths and cmd_check validation (both mastermind and 888 layouts).
 - **Propagation + learned_context** — improvement_propagation Step 1 now includes learned_context.md for context.

@@ -104,7 +104,7 @@
 *See **03_SELLABLE_IMPROVEMENT_MODULES.md** for the full catalog. Concepts from:*
 
 - **Quantonics** (quantonics.com) — DQ/SQ, quantons, flux, complementarity, language remediation
-- **Metaphysics of Quality** (Pirsig) — Quality hierarchy, care, gumption, levels (inorganic → intellectual)
+- **Metaphysics of Quality** (Pirsig) — Quality hierarchy, care, gumption
 - **Zettelkasten** — Atomic ideas, linking, fleeting → permanent
 - **Building a Second Brain** (Forte) — CODE (Capture, Organize, Distill, Express)
 - **GTD** (Allen) — Next actions, contexts, weekly review

@@ -161,7 +161,7 @@ If you run multiple products from one web repo, plan migration. See docs/ecosyst
 | Module | Location | Status |
 |--------|----------|--------|
 | **_template** | modules/_template/ | Copy this for new modules. |
-| **Quality Hierarchy** | modules/quality-hierarchy/ | ✅ Package ready. README, templates, CREDITS. |
+| **Quality Hierarchy** | ROOT/MASTERMIND_MODULES_PRIVATE/quality-hierarchy/ | ✅ Package ready. Use `module-delivery-pack.py quality-hierarchy`. |
 | **ENGENICA Polish** | Concept in 03_SELLABLE §7b | Needs: README + how to invoke. |
 | **Lexical Chain** | Concept in 03_SELLABLE §7c | Needs: README + concept-extract flow. |
 | **DQ/SQ Lens, Care Lens, etc.** | 03_SELLABLE catalog | Use _template. Copy. Fill in. |
@@ -180,8 +180,8 @@ If you run multiple products from one web repo, plan migration. See docs/ecosyst
 
 ### How to Package a Module for Sale
 
-1. Go to `modules/quality-hierarchy/` (or your module folder).
-2. Zip the folder: `quality-hierarchy.zip` (no parent path).
+1. Run `python scripts/module-delivery-pack.py quality-hierarchy` (script finds modules in ROOT/MASTERMIND_MODULES_PRIVATE/).
+2. Output: `modules/quality-hierarchy-delivery.zip` (gitignored).
 3. Gumroad/LS: Create product → Attach ZIP → Set price.
 4. Customer pays → Platform sends receipt → ZIP auto-downloads.
 
@@ -195,7 +195,7 @@ If you run multiple products from one web repo, plan migration. See docs/ecosyst
 
 **Recommended:** Quality Hierarchy (already packaged).
 
-1. Zip `modules/quality-hierarchy/` → `quality-hierarchy.zip`
+1. Run `python scripts/module-delivery-pack.py quality-hierarchy` (creates delivery ZIP)
 2. Gumroad/LS: Create product "MASTERMIND — Quality Hierarchy Module"
 3. Attach ZIP. Set price ($19–49). Add description (from README).
 4. Add "Buy" link on your site
