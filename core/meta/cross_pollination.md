@@ -1,19 +1,19 @@
-# Cross-Pollination — MASTERMIND (Modular) ↔ 888 (Workspace)
+# Cross-Pollination — MASTERMIND (Modular) ↔ Workspace System
 
-**Purpose:** Keep MASTERMIND (modular, for others) and 888 (workspace system) in sync. Each can help the other. Run this check periodically.
+**Purpose:** Keep MASTERMIND (modular, for others) and a workspace-native coordination system in sync. Each can help the other. Run this check periodically if you use both.
 
 **Trigger:** When improving either system, or every few sessions.
 
 ---
 
-## The Two Systems
+## The Two Layouts
 
 | System | Location | Purpose |
 |--------|----------|---------|
 | **MASTERMIND** | mastermind/ (this repo) | Modular, portable. For others to install. core/, templates/, config/. |
-| **888** | d:\Workspace\888 | Workspace-native. Full ecosystem, project registry, mastermind.md pilot. |
+| **Workspace-native** | your-workspace/workspace-engine/ | Workspace-bound. Full ecosystem, project registry, pilot file. |
 
-Keep both. Don't merge. They serve different needs: portable vs. workspace-bound.
+Keep both if you use them. They serve different needs: portable vs. workspace-bound.
 
 ---
 
@@ -29,8 +29,8 @@ Keep both. Don't merge. They serve different needs: portable vs. workspace-bound
 
 ## Safety Rules
 
-- **888 → MASTERMIND:** No workspace-specific paths, project names, or private content. Use relative paths, examples.
-- **MASTERMIND → 888:** Safe to add. Windows compatibility matters for both (`[OK]` not `✓`).
+- **Workspace → MASTERMIND:** No workspace-specific paths, project names, or private content. Use relative paths, examples.
+- **MASTERMIND → Workspace:** Safe to add. Windows compatibility matters for both (`[OK]` not `✓`).
 - **CLI parity:** Same commands. Feature differences OK if intentional.
 
 ---

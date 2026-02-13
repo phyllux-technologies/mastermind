@@ -2,7 +2,7 @@
 
 **Purpose:** Clear status of everything: what's ready, what's planned, what still needs to be figured out. Your reference for website, missions, merchant ops, and full integration.
 
-**Audience:** You (David) and anyone helping you deploy. Last updated: February 2026.
+**Audience:** Deployers and maintainers. Last updated: February 2026.
 
 ---
 
@@ -42,11 +42,11 @@
 
 ### 1.2 Publish & Rollout
 - **Checklist:** REPO_SETUP.md, 03_DEPLOYMENT Rollout Checklist.
-- **Workflow:** 07_WORKFLOWS §8 (mastermind), 888 docs 03_WORKFLOWS §11.
-- **Sanitize:** Replace d:\Workspace, project names. See REPO_SETUP "Before Public Rollout".
+- **Workflow:** 07_WORKFLOWS §8 (mastermind), workspace layout docs if applicable.
+- **Sanitize:** Replace workspace-specific paths, project names. See REPO_SETUP "Before Public Rollout".
 
 ### 1.3 Website Integration
-- **Current:** Phyllux at phyllux.io (Netlify ← biomimetic-inventions-public). MASTERMIND card on ecosystem.html.
+- **Current:** Phyllux at phyllux.io (Netlify ← your web repo). MASTERMIND card on ecosystem.html.
 - **Options:** See 07_ROLLOUT Part 2:
   - **A:** Expand Phyllux hub (add /products, link MASTERMIND, BWURM, ENGENICA).
   - **B:** Master web repo (phyllux-technologies-web) — one repo, all products, Netlify.
@@ -187,7 +187,7 @@
 - [ ] Add products/ecosystem page to phyllux.io if not already (ecosystem.html has MASTERMIND).
 - [ ] Choose merchant platform (Gumroad or LemonSqueezy).
 - [ ] Create MERCHANT_SETUP.md with your chosen flow.
-- [ ] If master web repo: Plan migration from biomimetic-inventions-public.
+- [ ] If master web repo: Plan migration from your web repo.
 
 ### 4.3 When Selling
 - [ ] Create first paid product (one module).
@@ -198,7 +198,7 @@
 ### 4.4 Missions (If Multi)
 - [ ] Create config/missions/ or mission_registry.md.
 - [ ] Update improvement_propagation to read multiple missions.
-- [ ] Update 888 propagation too.
+- [ ] Update workspace layout propagation too (if using).
 - [ ] Document in 02_SETUP.
 
 ---
@@ -228,7 +228,7 @@
 **Needs decision/implementation:**
 1. **Multiple missions** — Choose Option A (simple) or B/C (structured). Implement if B/C.
 2. **Merchant operations** — Choose Gumroad or LemonSqueezy. Create account. Add first product. Document flow.
-3. **Master web repo** — Decide when to migrate from biomimetic-inventions-public to unified web repo.
+3. **Master web repo** — Decide when to migrate from your web repo to unified web repo.
 
 **Next step:** Create config/mission.md with your missions (Option A for now). Create MERCHANT_SETUP.md (or add to this doc) once you pick Gumroad or LemonSqueezy. Then execute Part 4.1.
 

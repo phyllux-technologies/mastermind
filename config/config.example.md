@@ -8,7 +8,7 @@
 
 The folder containing your projects. Examples:
 
-- `d:\Workspace` (Windows)
+- `your-workspace` or `workspace` (Windows: `C:\Users\You\Workspace`)
 - `/Users/you/Workspace` (macOS/Linux)
 - `.` (if mastermind is your workspace root)
 

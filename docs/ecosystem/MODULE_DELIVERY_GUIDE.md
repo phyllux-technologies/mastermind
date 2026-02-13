@@ -2,7 +2,7 @@
 
 **Purpose:** Define what "ready to dish out" means. Ensure no surprises when customers buy. Every module has the same structure.
 
-**Related:** 03_SELLABLE_IMPROVEMENT_MODULES, MERCHANT_SETUP_TEMPLATE, DO-THIS-NOW-DAVE.
+**Related:** 03_SELLABLE_IMPROVEMENT_MODULES, MERCHANT_SETUP_TEMPLATE, ROLLOUT_CHECKLIST.
 
 ---
 

@@ -83,7 +83,7 @@ Options for others to participate:
 - [ ] **phyllux.io/partners.html** — Add "MASTERMIND & Ecosystem Partners" section. "Sell modules. Integrate. Promote. Revenue share. Open door."
 - [ ] **MASTERMIND README** — "Partnership inquiries: [contact]. Affiliate, reseller, integration — we're open."
 - [ ] **ecosystem.html** — "Interested in partnering? Promote, integrate, or build on our ecosystem. Mutual benefit."
-- [ ] **DO-THIS-NOW-DAVE** — Section on cross-promo + partnership setup.
+- [ ] **ROLLOUT_CHECKLIST** — Section on cross-promo + partnership setup.
 
 ---
 

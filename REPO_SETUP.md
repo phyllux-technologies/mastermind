@@ -19,7 +19,7 @@
 
 ## Before Public Rollout
 
-- [ ] **Sanitize:** Replace `d:\Workspace` with generic (e.g. `workspace/` or `your-workspace/`) in docs that reference paths.
+- [ ] **Sanitize:** Replace workspace-specific paths with generic (e.g. `workspace/` or `your-workspace/`) in docs.
 - [ ] **Sanitize:** 07_ROLLOUT, 04_MASTER_SCRUTINY use workspace-specific paths — replace or add "customize for your setup" note.
 - [ ] Review all files for private/sensitive content (paths, names, etc.).
 - [ ] Ensure README has correct repo URL (update when known).

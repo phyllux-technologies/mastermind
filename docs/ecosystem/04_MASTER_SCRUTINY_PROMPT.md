@@ -67,7 +67,7 @@ For `mastermind/scripts/mm.py`, `888/scripts/mm.py`:
 
 - [ ] **Logic** — add, propagate, check, sync-links, scan, status. Edge cases.
 - [ ] **Encoding** — UTF-8 everywhere. Windows cp1252 safe (use [OK] not ✓).
-- [ ] **Paths** — Works for 888 and mastermind layouts. No hardcoded d:\Workspace.
+- [ ] **Paths** — Works for workspace and mastermind layouts. No hardcoded workspace paths.
 - [ ] **Error handling** — Missing files, empty registry, malformed tables.
 - [ ] **Docstrings** — Clear, accurate.
 

@@ -30,7 +30,7 @@ Master Scrutiny prompt created and executed. ENGENICA and Lexical Chain integrat
 
 ## Phase 3: Code
 
-- **mm.py (888, mastermind):** No changes. Logic, encoding, paths verified.
+- **mm.py (workspace + modular layouts):** No changes. Logic, encoding, paths verified.
 - **mm check:** Passed.
 - **mm sync-links:** Passed. ENGENICA now receives MASTERMIND_LINK.
 
@@ -38,8 +38,8 @@ Master Scrutiny prompt created and executed. ENGENICA and Lexical Chain integrat
 
 ## Phase 4: ENGENICA Integration
 
-- **888 registry:** ENGENICA added to Project Map and Per-Project Details.
-- **888/projects/ENGENICA.md:** Created. Coordination file for ENGENICA.
+- **Project registry:** ENGENICA added to Project Map and Per-Project Details.
+- **ENGENICA.md:** Created. Coordination file for ENGENICA.
 - **Sellable modules:** ENGENICA Polish module added (§7b). Entropy, symmetry, fractal polish on propagation output.
 - **Ecosystem strategy:** Note added. ENGENICA + Lexical Chain as premium modules.
 - **Interlink diagram:** Note added. "ENGENICA polishes PHYLLUX & Content Studio. Lexical Chain links all."
@@ -76,8 +76,8 @@ Master Scrutiny prompt created and executed. ENGENICA and Lexical Chain integrat
 
 | File | Change |
 |------|--------|
-| 888/projects/_registry.md | +ENGENICA project, details, diagram note |
-| 888/projects/ENGENICA.md | Created |
+| projects/_registry.md | +ENGENICA project, details, diagram note |
+| projects/ENGENICA.md | Created |
 | mastermind/docs/ecosystem/03_SELLABLE_IMPROVEMENT_MODULES.md | +§7b ENGENICA, +§7c Lexical Chain, rollout #10–11, total 17+ |
 | mastermind/docs/ecosystem/01_GOVERNOR_SAFETY_SYSTEM.md | +§2.5 Convergence & Cycle Guard |
 | mastermind/docs/ecosystem/00_ECOSYSTEM_STRATEGY.md | +ENGENICA, Lexical Chain note |
@@ -85,7 +85,7 @@ Master Scrutiny prompt created and executed. ENGENICA and Lexical Chain integrat
 | mastermind/docs/ecosystem/INDEX.md | +04_MASTER_SCRUTINY_PROMPT, updated 03 |
 | mastermind/docs/ecosystem/SCRUTINY_REPORT_FINAL.md | Created |
 | mastermind/assets/ | +mastermind-module-engenica.png, mastermind-module-lexical-chain.png |
-| 888/memory/main_memory.md | +Master Scrutiny idea |
+| memory/main_memory.md | +Master Scrutiny idea |
 
 ---
 

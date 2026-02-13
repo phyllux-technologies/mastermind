@@ -32,9 +32,6 @@
 | Date | Idea | Projects Affected | Status |
 |------|------|-------------------|--------|
 | — | — | — | — |
-| 2026-02-12 | Sellable improvement modules: Quantonics, MoQ, Zettelkasten, BASB, GTD, Bergson, Polanyi — installable add-ons, one concept at a time. See docs/ecosystem/03_SELLABLE_IMPROVEMENT_MODULES.md | MASTERMIND, ecosystem | Documented |
-| 2026-02-12 | Master Scrutiny executed: ENGENICA and Lexical Chain integrated into registry, sellable modules, Governor. 04_MASTER_SCRUTINY_PROMPT created. +2 module images (ENGENICA, Lexical Chain). | MASTERMIND, 888, ENGENICA | Done |
-| 2026-02-12 | Counter-narrative images from systems critique (Meshuggah themes): 12 images for trust, dissent counteraction, public product image. 05_LESSONS_FROM_SYSTEMS_CRITIQUE.md. | MASTERMIND | Done |
 
 ---
 
@@ -50,7 +47,7 @@
 - **Externalized memory is shared memory** — Writing to a file makes it readable by next session, human, future tools.
 - **Coordination engine enables coordination** — A system designed for coordination makes it possible.
 - **Gaps are inventions** — When you walk the chain, missing pieces appear. You discover them.
-- **Systems can do their worst** — From critique (e.g. Meshuggah): pawns, drones, manufactured ignorance, dehumanization, suppression. MASTERMIND counters: agency, transparency, voluntary, human-first, question welcome, free to leave. Counter-narrative images for public product image.
+- **Systems can do their worst** — From critique of oppressive systems: pawns, drones, manufactured ignorance, dehumanization, suppression. MASTERMIND counters: agency, transparency, voluntary, human-first, question welcome, free to leave. Counter-narrative images for public product image. See 05_LESSONS_FROM_SYSTEMS_CRITIQUE.md.
 - *See epiphanies.md for more.*
 
 ---

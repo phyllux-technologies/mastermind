@@ -104,7 +104,7 @@
 - mastermind-free-core-premium.png — Free + premium
 - mastermind-governor-safety.png — Governor wrapper
 - mastermind-aligned-incentives.png — User ↔ Creator
-- mastermind-cross-pollination.png — 888 ↔ mastermind
+- mastermind-cross-pollination.png — workspace ↔ modular sync
 - mastermind-module-licensed-badge.png — Licensed badge for product listings, module ZIPs
 
 ---

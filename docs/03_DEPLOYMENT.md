@@ -75,7 +75,7 @@ mastermind/
 
 **Do not include in repo:**
 - Private/sensitive data
-- User-specific paths (e.g., d:\Workspace)
+- User-specific paths (e.g., your-workspace/)
 - Project names or content from your specific use case (use placeholders)
 - API keys, secrets, credentials
 

@@ -3,6 +3,7 @@
 # User-specific (do not commit)
 config/mission.md
 config/local_paths.md
+DO-THIS-NOW-DAVE.md
 *.local.md
 docs/ecosystem/MERCHANT_SETUP.md
 

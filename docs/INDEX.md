@@ -20,7 +20,7 @@
 | **[HOW_TO_DESCRIBE_MASTERMIND](HOW_TO_DESCRIBE_MASTERMIND.md)** | Talking points, elevator pitch, by audience | Introducing or selling |
 | **[10_HOW_WE_BUILT_IT](10_HOW_WE_BUILT_IT.md)** | Architecture, design | Understand how and why it was built |
 | **[11_CLI](11_CLI.md)** | mm commands | Automate tasks |
-| **[ecosystem/](ecosystem/)** | Strategy, Governor, image plan | Ecosystem, safety, monetization, visuals |
+| **[ecosystem/](ecosystem/)** | Strategy, Governor, image plan, rollout | Ecosystem, safety, monetization, visuals |
 
 ---
 

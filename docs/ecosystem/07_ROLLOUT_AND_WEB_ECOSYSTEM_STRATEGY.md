@@ -4,7 +4,7 @@
 
 **Full status (missions, merchant, everything):** See [09_FULL_SETUP_AND_INTEGRATION_STATUS](09_FULL_SETUP_AND_INTEGRATION_STATUS.md).
 
-**Current state:** Phyllux website in `workspace/website/` → deploy to biomimetic-inventions-public → Netlify → phyllux.io. MASTERMIND in `workspace/mastermind/`. BWURM, ENGENICA in active projects.
+**Current state:** Phyllux website in `workspace/website/` → deploy to your web repo → Netlify → phyllux.io. MASTERMIND in `workspace/mastermind/`. BWURM, ENGENICA in active projects.
 
 ---
 
@@ -15,7 +15,7 @@
 | Step | Action | Status |
 |------|--------|--------|
 | 1 | Create GitHub repo (e.g. `mastermind-coordination` or `phyllux-technologies/mastermind`) | [ ] |
-| 2 | Copy `d:\Workspace\mastermind/` to the repo. Remove draft/private content. Use placeholders for project names. | [ ] |
+| 2 | Copy `mastermind/` to the repo. Remove draft/private content. Use placeholders for project names. | [ ] |
 | 3 | Run `mm check` — validate structure | [ ] |
 | 4 | Complete Rollout Checklist (03_DEPLOYMENT.md) — LICENSE, CREDITS, README | [ ] |
 | 5 | Push. Add GitHub Topics: productivity, ai, coordination, workflow | [ ] |
@@ -25,7 +25,7 @@
 
 | Step | Action | Status |
 |------|--------|--------|
-| 1 | Keep Netlify + biomimetic-inventions-public as-is for phyllux.io | [ ] |
+| 1 | Keep Netlify + your web repo as-is for phyllux.io | [ ] |
 | 2 | When ready: Add link to MASTERMIND from Phyllux site (e.g. "Products" or "Ecosystem" page) | [ ] |
 | 3 | Add link to BWURM/Content Studio if you have a public offering | [ ] |
 
@@ -33,7 +33,7 @@
 
 | Step | Action | Status |
 |------|--------|--------|
-| 1 | Audit all repos for `d:\Workspace`, `d:\\`, API keys, private paths | [ ] |
+| 1 | Audit all repos for workspace-specific paths, API keys, private content | [ ] |
 | 2 | Use `.gitignore` for secrets, local config | [ ] |
 | 3 | Replace your real project names with placeholders in mastermind template | [ ] |
 
@@ -45,7 +45,7 @@
 
 You have (or will have):
 
-- **phyllux.io** — Biomimetic platform, Wave, Mesh, Vault, Core (Netlify from biomimetic-inventions-public)
+- **phyllux.io** — Biomimetic platform, Wave, Mesh, Vault, Core (Netlify from your web repo)
 - **MASTERMIND** — Coordination system (needs a home: docs site, landing, repo)
 - **BWURM / Content Studio** — Book generation (may have its own site or stay private)
 - **ENGENICA** — Polish framework (documented on Phyllux site; could stand alone)
@@ -72,7 +72,7 @@ You want: **One place that shows EVERYTHING you offer**, with links to each doma
 ```
 your-web-repo/                    # e.g. phyllux-technologies-web, or flourish-hub
 ├── index.html                    # Hub: "What I offer" — links to everything
-├── phyllux/                      # Phyllux site (move from biomimetic or symlink)
+├── phyllux/                      # Phyllux site (move from your web repo or symlink)
 │   ├── index.html
 │   ├── vision.html, technology.html, ...
 │   └── assets/
@@ -92,14 +92,14 @@ your-web-repo/                    # e.g. phyllux-technologies-web, or flourish-h
 - `phyllux.io/mastermind/` or `mastermind.phyllux.io` → MASTERMIND landing
 
 **Pros:** One repo. One Netlify project (or multi-site). Full control. Easy to add new products.  
-**Cons:** Migrate website from biomimetic-inventions-public. More upfront work.
+**Cons:** Migrate website from your web repo. More upfront work.
 
 ### Option C: Fractaled Repo Complex
 
 **Idea:** Master "control" repo that doesn't host sites but **coordinates** them:
 
 - **Master repo** — Contains: site map, deploy scripts, shared assets, coordination docs
-- **Product repos** — biomimetic-inventions-public (Phyllux), mastermind (MASTERMIND), etc. Each deployed separately
+- **Product repos** — your web repo (Phyllux), mastermind (MASTERMIND), etc. Each deployed separately
 - **Redundancy** — Each product repo is self-contained. If master dies, products still deploy.
 - **Master scripts** — `deploy-all.ps1` runs deploy for each product; or each repo has its own Netlify connection
 
@@ -148,7 +148,7 @@ master-control-repo/
 3. Copy `workspace/website/` → `phyllux-technologies-web/phyllux/`
 4. Create simple MASTERMIND landing in `phyllux-technologies-web/mastermind/`
 5. Configure Netlify to serve from this repo. Point phyllux.io (or your hub domain) to it.
-6. Deprecate or redirect biomimetic-inventions-public website content (or keep biomimetic for prior art only; web moves to new repo)
+6. Deprecate or redirect your web repo website content (or keep prior art; web moves to new repo)
 
 ### Phase 4: Fractaled (Optional, Future)
 
@@ -173,7 +173,7 @@ master-control-repo/
 2. **Add ecosystem/products page to phyllux.io** — Link to MASTERMIND, ENGENICA, BWURM.
 3. **Run mm check** — Before any MASTERMIND publish.
 4. **Complete Rollout Checklist** — 03_DEPLOYMENT.md.
-5. **Decide:** Stay with biomimetic-inventions-public for web, or plan migration to master web repo (Phase 3).
+5. **Decide:** Stay with your web repo for web, or plan migration to master web repo (Phase 3).
 
 ---
 

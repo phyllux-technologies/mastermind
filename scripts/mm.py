@@ -242,8 +242,8 @@ def cmd_pre_publish(root: Path, paths: dict) -> int:
     mastermind_dir = root / "mastermind" if (root / "mastermind" / "core").exists() else root
     if not (mastermind_dir / "core").exists():
         mastermind_dir = root  # might be mastermind itself
-    # 3. Scan for workspace-specific paths (exclude DO-THIS-NOW which has examples)
-    exclude_names = {"DO-THIS-NOW-DAVE.md"}
+    # 3. Scan for workspace-specific paths
+    exclude_names = {"mm.py"}  # Scanner contains detection pattern; skip self
     for ext in [".md", ".py", ".bat", ".sh", ".ps1"]:
         for f in mastermind_dir.rglob(f"*{ext}"):
             if "node_modules" in str(f) or ".git" in str(f) or f.name in exclude_names:

@@ -18,7 +18,7 @@ When you say "improve the system":
 1. Read mastermind.md, this file.
 2. Identify gaps, friction, missing triggers. 5W1H.
 3. Improve mastermind, core structure, project links.
-4. **Cross-pollination** — If 888 exists in the same workspace, see core/meta/cross_pollination.md. Compare both; add safe improvements. Run every now and then.
+4. **Cross-pollination** — If you run both modular MASTERMIND and a workspace-native coordination system, see core/meta/cross_pollination.md. Compare both; add safe improvements. Run every now and then.
 5. Document in core/CHANGELOG.md.
 6. Totality check.
 
