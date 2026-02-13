@@ -47,6 +47,7 @@ def get_paths(root: Path) -> dict:
             "main_memory": root / "core" / "memory" / "main_memory.md",
             "epiphanies": root / "core" / "memory" / "epiphanies.md",
             "session_log": root / "core" / "memory" / "session_log.md",
+            "learned_context": root / "core" / "memory" / "learned_context.md",
             "registry": root / "core" / "projects" / "_registry.md",
             "changelog": root / "core" / "CHANGELOG.md",
             "propagation": root / "core" / "processes" / "improvement_propagation.md",
@@ -58,6 +59,7 @@ def get_paths(root: Path) -> dict:
         "main_memory": root / "888" / "memory" / "main_memory.md",
         "epiphanies": root / "888" / "memory" / "epiphanies.md",
         "session_log": root / "888" / "memory" / "session_log.md",
+        "learned_context": root / "888" / "memory" / "learned_context.md",
         "registry": root / "888" / "projects" / "_registry.md",
         "changelog": root / "888" / "CHANGELOG.md",
         "propagation": root / "888" / "processes" / "improvement_propagation.md",
@@ -130,9 +132,9 @@ def cmd_check(root: Path, paths: dict) -> int:
     """Validate system structure and run totality check."""
     errors = []
     for name, p in paths.items():
-        if name in ("workspace", "link_template") and "888" in str(p):
+        if name in ("workspace", "link_template"):
             continue
-        if p.suffix == ".md" and p.exists() is False:
+        if p.suffix == ".md" and not p.exists():
             errors.append(f"Missing: {p}")
     if errors:
         print("Issues found:")

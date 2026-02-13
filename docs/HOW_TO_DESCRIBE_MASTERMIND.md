@@ -98,4 +98,13 @@
 
 ---
 
+---
+
+## For You (Internal)
+
+- **Backcast:** Envision success. Work backwards. Interpolate. Execute forward. See ROOT/docs/future/.
+- **ROOT:** Main coordination hub. Images, future, strategy. workspace/ROOT/
+
+---
+
 *How to Describe MASTERMIND. Use what fits. Adjust for your voice. Last updated: February 2026.*

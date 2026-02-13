@@ -24,7 +24,7 @@
 
 ### Step 1: Read Main Memory
 - **Read** `core/memory/main_memory.md` fully.
-- **Read** `core/memory/epiphanies.md` and `session_log.md` for context.
+- **Read** `core/memory/epiphanies.md`, `session_log.md`, and `learned_context.md` for context.
 - **Identify** all entries in **New / Unprocessed** and any not yet fully propagated.
 - **List** the ideas/epiphanies/lessons/insights to evaluate.
 

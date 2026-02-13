@@ -4,6 +4,12 @@
 
 ---
 
+## Dual Setup (888 + mastermind repo)
+
+**If you run both:** Your personal engine (888/) and this repo (mastermind/) coexist. Run `mm` from **workspace root** — not from inside mastermind/. That keeps your personal data in 888/ and this repo clean for pushing.
+
+---
+
 ## Before First Push
 
 - [ ] Create repo on GitHub (private for now, per your plan).
@@ -28,6 +34,12 @@
 - [ ] Make repo public.
 - [ ] Add topics: productivity, ai, coordination, workflow, knowledge-management
 - [ ] Consider: GitHub Discussions, Issues templates (optional)
+
+---
+
+## Selling Modules
+
+Core is free. Sell add-on modules (Quality Hierarchy, ENGENICA Polish, etc.) via Gumroad/LemonSqueezy. Package: `python scripts/module-delivery-pack.py quality-hierarchy`. See docs/ecosystem/MODULE_DELIVERY_GUIDE.md and ROLLOUT_CHECKLIST §Module Readiness.
 
 ---
 

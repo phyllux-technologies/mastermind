@@ -7,6 +7,7 @@
 | Process | Trigger | Purpose |
 |---------|---------|---------|
 | **improvement_propagation** | New idea in main_memory | Evaluate against all projects; apply improvements; propagate; document |
+| **continuous_learning_insight** | Every session; every interaction | Learn from user input; cross-reference with Main Memory, learned_context, Learnings.md; identify implications (positive/negative); explain comprehensively; add to learned_context; runs in tandem with all processes |
 
 ---
 

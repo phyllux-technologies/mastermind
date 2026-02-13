@@ -31,7 +31,9 @@
 
 | Date | Idea | Projects Affected | Status |
 |------|------|-------------------|--------|
-| — | — | — | — |
+| 2026-02-12 | ROOT created as main coordination hub (workspace/ROOT). Images moved from C: to D: to free space. Future vision + backcast (01_ULTIMATE_SUCCESS_STATE, 02_BACKCAST_ROADMAP). MASTERMIND integrated. | MASTERMIND, Phyllux, ROOT, All | Done |
+| 2026-02-12 | Reality Architect APEX: Ultimate complete state (Phyllux global, 50+ patents, BOOKWURM scale, personal flourishing). TRAIL reverse-engineered Year 10→0. CRITICAL PATH extracted (patent Jan 7 2027, revenue, capital efficiency). SEGMENT 1 built. ROOT/docs/future/REALITY_ARCHITECT/. | Phyllux, ROOT, BOOKWURM, All | Done |
+| 2026-02-12 | ROOT iteration 2: IMAGE_CATALOG, VALUES_ALIGNMENT_CHECK, DECISION_LOG, WEEKLY_REVIEW_TEMPLATE, seed-ideas, ONBOARDING, 888/projects/ROOT.md, 04_FUTURE expanded. Cross-links updated. | ROOT, 888, All | Done |
 
 ---
 
@@ -72,6 +74,9 @@
 - **Virtuous loops** — Each improved component improves the other. Loops can be self-improving.
 - **Quality as coherence** — Goal isn't "more" but "coherent."
 - **Interlinked AND separate** — Projects share mission but remain distinct. Each has its own master; all reference the engine.
+- **Backcast from success** — Envision ultimate success state. Work backwards to present. Interpolate steps. Execute forward. ROOT/docs/future/.
+- **Reality Architect** — APEX (ultimate state) → TRAIL (Year 10→0) → CRITICAL PATH (non-negotiable) → SEGMENT builds. Patent Jan 7 2027 immovable.
+- **Restart points** — When stuck: QUICK_REFERENCE, ONBOARDING, EXECUTIVE_SUMMARY, WHEN_STUCK. One place. Clear path.
 
 ---
 
@@ -81,6 +86,7 @@
 |------|---------|
 | epiphanies.md | Consolidated epiphanies |
 | session_log.md | Session-by-session learnings |
+| learned_context.md | What AI has learned from user across sessions |
 | by_topic/ | Topic-organized (instructions, coordination, etc.) |
 
 ---

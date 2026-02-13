@@ -59,6 +59,14 @@ Configure your projects in `mastermind/core/projects/_registry.md`.
 3. The process evaluates against all projects; applies improvements; propagates; documents.
 4. Result: Improvements applied; everything documented.
 
+### Continuous Learning & Insight (Always Running)
+1. Read `core/memory/main_memory.md`, `learned_context.md`, `epiphanies.md`; if present, `Learnings.md` (workspace root).
+2. Cross-reference everything the user shares with accumulated knowledge.
+3. Identify implications — what could come from it (positive or negative).
+4. Explain comprehensively to the user when substantive implications exist.
+5. Add new learnings to `learned_context.md` or `Learnings.md`.
+6. Runs **in tandem** with creation, brainstorming, propagation — not instead of. See `core/processes/continuous_learning_insight.md`.
+
 ### When You Say "Improve the System"
 1. Read mastermind.md, `mastermind/core/meta/improvement_process.md`.
 2. Identify gaps, friction, missing triggers.
@@ -78,7 +86,9 @@ Configure your projects in `mastermind/core/projects/_registry.md`.
 |------|---------|
 | mastermind.md | This file — central control |
 | core/memory/main_memory.md | Main Memory — ideas, epiphanies, lessons |
+| core/memory/learned_context.md | Learned Context — what AI has learned from user |
 | core/processes/improvement_propagation.md | Improvement Propagation — runs on every new idea |
+| core/processes/continuous_learning_insight.md | Continuous Learning — learns from everything; explains implications; runs always |
 | core/projects/_registry.md | Project map |
 | core/CHANGELOG.md | System change history |
 | config/mission.md | Your mission (customize) |

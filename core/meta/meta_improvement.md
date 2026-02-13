@@ -15,6 +15,7 @@
 3. **Friction** — What makes improvement hard?
 4. **Feedback** — Do we know when improvement worked?
 5. **Recursion** — Can the process improve itself?
+6. **Continuous Learning** — Does the system learn from everything the user shares? Does it explain implications (positive and negative) comprehensively? See `core/processes/continuous_learning_insight.md`.
 
 ---
 
@@ -23,6 +24,7 @@
 - "Improve the system" (may include this)
 - Repeated failure to improve
 - New pattern that should be codified
+- Continuous Learning process: runs in tandem; improves itself and the process of improving
 
 ---
 

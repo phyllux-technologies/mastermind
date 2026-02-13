@@ -3,6 +3,12 @@
 ---
 
 ## [Unreleased]
+- **CLI learned_context** — Added learned_context.md to get_paths and cmd_check validation (both mastermind and 888 layouts).
+- **Propagation + learned_context** — improvement_propagation Step 1 now includes learned_context.md for context.
+- **Sanitization** — Removed literal workspace paths from CHANGELOG, main_memory, session_log, HOW_TO_DESCRIBE_MASTERMIND; 888/learned_context Related line.
+- **REPO_SETUP** — Dual setup note (run mm from workspace root); Selling Modules quick reference.
+- **Continuous Learning & Insight Generation** — New process: Cursor learns from everything the user shares; cross-references with Main Memory, epiphanies, learned_context, Learnings.md; identifies implications (positive and negative); explains comprehensively to user; adds to learned_context; runs in tandem with creation, brainstorming, propagation. core/processes/continuous_learning_insight.md, core/memory/learned_context.md. Integrated into mastermind.md, process registry, meta_improvement. Cursor rule updated.
+- **ROOT integration** — ROOT/ as main coordination hub (workspace). Future vision (01_ULTIMATE_SUCCESS_STATE), backcast (02_BACKCAST_ROADMAP), implementation sequence (03), future concepts (04). Images moved from C: to D:. Main Memory + session_log updated. MASTERMIND_CROSSREF, MASTERMIND_LINK in ROOT.
 - **Master Scrutiny** — 04_MASTER_SCRUTINY_PROMPT created and executed. ENGENICA and Lexical Chain integrated into project registry, sellable modules (§7b, §7c), Governor (Convergence & Cycle Guard). ENGENICA.md created. +2 module images (ENGENICA, Lexical Chain) — mastermind-module-engenica.png, mastermind-module-lexical-chain.png. SCRUTINY_REPORT_FINAL.md.
 - **Scrutiny pass** — Ecosystem INDEX image count 74+; 03_DEPLOYMENT +mm check in Rollout Checklist; Main Memory processed.
 - **Improvement in Use, Rollout, Meta-System** — 06_IMPROVEMENT_IN_USE.md (dogfooding, value assessment). 07_ROLLOUT_AND_WEB_ECOSYSTEM_STRATEGY.md (user checklist, hub vs master repo vs fractaled, Phyllux+Netlify+MASTERMIND). 08_SYSTEM_FOR_MASTERMIND_CALIBER_PRODUCTS.md (idea→launch, Cursor workflow). website/ecosystem.html +MASTERMIND card.
