@@ -3,6 +3,7 @@
 ---
 
 ## [Unreleased]
+- **Modules moved to private store** — Sellable module content removed from public repo. Lives in workspace/ROOT/MASTERMIND_MODULES_PRIVATE/. Repo now has only _template + README (purchase pointer). module-delivery-pack.py reads from private store.
 - **CLI learned_context** — Added learned_context.md to get_paths and cmd_check validation (both mastermind and 888 layouts).
 - **Propagation + learned_context** — improvement_propagation Step 1 now includes learned_context.md for context.
 - **Sanitization** — Removed literal workspace paths from CHANGELOG, main_memory, session_log, HOW_TO_DESCRIBE_MASTERMIND; 888/learned_context Related line.

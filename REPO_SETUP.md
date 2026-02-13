@@ -39,7 +39,7 @@
 
 ## Selling Modules
 
-Core is free. Sell add-on modules (Quality Hierarchy, ENGENICA Polish, etc.) via Gumroad/LemonSqueezy. Package: `python scripts/module-delivery-pack.py quality-hierarchy`. See docs/ecosystem/MODULE_DELIVERY_GUIDE.md and ROLLOUT_CHECKLIST §Module Readiness.
+Core is free. Sell add-on modules (Quality Hierarchy, ENGENICA Polish, etc.) via Gumroad/LemonSqueezy. **Module content lives in ROOT/MASTERMIND_MODULES_PRIVATE/** (not in repo). Package: `python scripts/module-delivery-pack.py quality-hierarchy`. See docs/ecosystem/MODULE_DELIVERY_GUIDE.md and ROLLOUT_CHECKLIST §Module Readiness.
 
 ---
 

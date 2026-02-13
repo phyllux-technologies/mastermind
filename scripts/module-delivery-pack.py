@@ -25,9 +25,13 @@ def main() -> int:
     args = parser.parse_args()
 
     root = Path(__file__).resolve().parent.parent
-    module_dir = root / "modules" / args.module
+    # Private store (workspace/ROOT/MASTERMIND_MODULES_PRIVATE/) holds sellable modules
+    workspace = root.parent if (root / "core").exists() else root
+    private_store = workspace / "ROOT" / "MASTERMIND_MODULES_PRIVATE"
+    module_dir = (private_store / args.module) if private_store.exists() else (root / "modules" / args.module)
     if not module_dir.exists():
         print(f"Error: {module_dir} not found")
+        print("  Sellable modules live in ROOT/MASTERMIND_MODULES_PRIVATE/ (workspace).")
         return 1
 
     out_name = f"{args.module}-delivery.zip"

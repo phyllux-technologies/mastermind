@@ -6,6 +6,12 @@
 
 ---
 
+## For Sellers: Where Modules Live
+
+**Sellable module content is not in the public repo.** Store modules in `workspace/ROOT/MASTERMIND_MODULES_PRIVATE/`. The `module-delivery-pack.py` script finds them there. When you run `python scripts/module-delivery-pack.py quality-hierarchy`, it packages from your private store.
+
+---
+
 ## What a Customer Gets
 
 **Every module = one ZIP (or private repo link) containing:**

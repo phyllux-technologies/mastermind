@@ -1,24 +1,26 @@
 # MASTERMIND Modules — Sellable Add-ons
 
-**Purpose:** Installable modules for MASTERMIND. Each adds distinct value. Sold separately or bundled.
+**Purpose:** Installable modules for MASTERMIND. Each adds distinct value. **Sold separately.**
 
-**Structure:**
-- `_template/` — Copy this when creating a new module.
-- `quality-hierarchy/` — First ready-to-ship (MASTERMIND Level).
-- `pulse/` — DQ/SQ Lens.
-- `care/` — Care Lens.
-- `nucleus/` — Atomic Main Memory.
-- `next/` — GTD Bridge.
-- `brain/` — Second Brain Mode.
-- `polish/` — ENGENICA integration.
-- `lexicon/` — Lexical Chain.
-- `quanton/` — Quanton Evaluation.
-- `flux/` — Flux Mode.
-- `lexis/` — Language Lens.
-- `gumption/` — Gumption Traps.
-- `duration/` — Process Lens.
-- `tacit/` — Tacit Capture.
-- `totality/` — 5W1H Extended.
-- `governor/` — Safety, convergence, cycle guard.
+---
 
-**Delivery:** Package each module as ZIP. Sell via Gumroad/LemonSqueezy. See docs/ecosystem/MODULE_DELIVERY_GUIDE.md.
+## Structure
+
+- `_template/` — Blank template showing module structure. Copy when creating new modules.
+- **Sellable modules** — Not included in this repo. Available by purchase.
+
+---
+
+## How to Get Modules
+
+Modules are **sold separately**. Purchase at [your Gumroad/LemonSqueezy link when configured].
+
+**Available modules:** Quality Hierarchy, DQ/SQ Lens, Care Lens, Governor, Atomic Main Memory, GTD Bridge, Second Brain Mode, ENGENICA Polish, Lexical Chain, Flux Mode, Language Lens, Gumption Traps, Process Lens, Tacit Capture, 5W1H Extended, and more.
+
+**Catalog:** See docs/ecosystem/03_SELLABLE_IMPROVEMENT_MODULES.md.
+
+---
+
+## For Sellers
+
+Module delivery guide: docs/ecosystem/MODULE_DELIVERY_GUIDE.md. Package with `python scripts/module-delivery-pack.py <module-name>` (requires private module store in workspace).
