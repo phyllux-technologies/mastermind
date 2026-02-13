@@ -13,9 +13,11 @@
 
 ## How to Get Modules
 
-Modules are **sold separately**. Purchase at [your Gumroad/LemonSqueezy link when configured].
+Modules are **sold separately**. Purchase on [Gumroad](https://phyllux.gumroad.com).
 
-**Available modules:** Quality Hierarchy, DQ/SQ Lens, Care Lens, Governor, Atomic Main Memory, GTD Bridge, Second Brain Mode, ENGENICA Polish, Lexical Chain, Flux Mode, Language Lens, Gumption Traps, Process Lens, Tacit Capture, 5W1H Extended, and more.
+**Available modules:**
+- **[Quality Hierarchy](https://phyllux.gumroad.com/l/tkkldi)** — Pirsig levels, level-aware propagation. *Available now.*
+- DQ/SQ Lens, Care Lens, Governor, Atomic Main Memory, GTD Bridge, Second Brain Mode, ENGENICA Polish, Lexical Chain, Flux Mode, Language Lens, Gumption Traps, Process Lens, Tacit Capture, 5W1H Extended, and more — *rolling out soon.*
 
 **Catalog:** See docs/ecosystem/03_SELLABLE_IMPROVEMENT_MODULES.md.
 
