@@ -14,6 +14,27 @@
 
 ---
 
+## Who It's For (Target Audience)
+
+Use for ads, landing pages, "About" copy.
+
+**Ideal users:**
+- **Multi-project people** — Several ventures, products, or workstreams that should connect
+- **Improvement-minded people** — Who learn in one place and want it to apply elsewhere
+- **Idea hoarders** — Lots of notes/insights that rarely get used across projects
+- **AI-augmented workers** — Especially Cursor users who want persistent memory + improvement process, not just one-off chats
+- **Framework fans** — Pirsig, GTD, Zettelkasten, etc. who want those frameworks built into how they work
+
+**The pain it solves:**
+> "I have good ideas, but they never spread to my other projects."
+
+**The promise:**
+> "One idea → propagation → applied everywhere that matters. Documented. Traceable."
+
+**Short version:** Anyone with multiple projects who wants one insight to improve many things — founders, consultants, creators, researchers, teams — instead of rediscovering the same lesson in different silos.
+
+---
+
 ## Elevator Pitch (30 Seconds)
 
 > "MASTERMIND is a coordination system. You add ideas to something called Main Memory. Then you run Improvement Propagation — it evaluates every idea against all your projects. If the idea fits Project A, you apply it. If it fits Project B too, you propagate it. One lesson becomes many improvements. And the system improves itself — when you say 'improve the improvement process,' it gets better. Free core. Optional modules. Voluntary. Transparent. You're in control."

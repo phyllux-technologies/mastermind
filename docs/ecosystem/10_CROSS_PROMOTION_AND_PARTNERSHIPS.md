@@ -13,12 +13,11 @@
 | Product | Promotes | Where | How |
 |---------|----------|-------|-----|
 | **MASTERMIND** | Phyllux | MASTERMIND README, module docs, ecosystem page | "Optimize with ENGENICA (Phyllux)." Link to phyllux.io. |
-| **MASTERMIND** | Filex | MASTERMIND docs, website | "Integrates with Filex for [X]." Link when Filex is live. |
+| **MASTERMIND** | Filex | MASTERMIND docs, website | Link to Filex (Lokesh's product at filexai.com). Cross-support. |
 | **MASTERMIND** | ENGENICA | Sellable modules, ENGENICA Polish module | ENGENICA is a premium module. Phyllux docs ENGENICA. |
 | **Phyllux** | MASTERMIND | phyllux.io ecosystem.html, partners.html | MASTERMIND card. "Coordination that improves all systems." |
 | **Phyllux** | ENGENICA | engenica.html, docs | ENGENICA polishes Phyllux. Already linked. |
-| **Filex** | MASTERMIND | Filex site/docs (when live) | "Use MASTERMIND to coordinate." Link to MASTERMIND. |
-| **Filex** | Phyllux | Filex site (when live) | "Built on Phyllux / biomimetic principles." Link. |
+| **Phyllux** | Filex | phyllux.io partners.html, ecosystem | Link to filexai.com. "Our friend Lokesh's product." Support, don't claim. |
 
 **Principle:** Each product page links to the others. Ecosystem reinforces ecosystem.
 
@@ -30,27 +29,24 @@
 
 - [ ] **ecosystem.html** — MASTERMIND card has repo link (when public). Already has card.
 - [ ] **partners.html** — Add "MASTERMIND Partners" or "Ecosystem Partners" section. "Use MASTERMIND to coordinate your work. Free core. Premium modules. Link: [MASTERMIND repo]."
-- [ ] **about.html** — "Our ecosystem: Phyllux, ENGENICA, MASTERMIND, [Filex]."
+- [ ] **about.html** — "Our ecosystem: Phyllux, ENGENICA, MASTERMIND. We also support Filex (Lokesh's product at filexai.com)."
 - [ ] **Footer** — Consider adding MASTERMIND to footer nav if not redundant.
 
 ### On MASTERMIND (README, docs)
 
-- [ ] **README** — "Integrates with Phyllux (ENGENICA polish), Content Studio, [Filex]."
+- [ ] **README** — "Integrates with Phyllux (ENGENICA polish), Content Studio. We support Filex (filexai.com, Lokesh's product)."
 - [ ] **04_BENEFITS** — "Use with Phyllux for biomimetic tech coordination."
 - [ ] **ecosystem/00_ECOSYSTEM_STRATEGY** — Already mentions integrations. Add Filex when ready.
 
 ---
 
-## Part 3: Filex — Add When Ready
+## Part 3: Filex — Lokesh's Product (filexai.com)
 
-**Filex** — [*Add your Filex description here. Product? Service? Platform?*]
+**Filex AI** — Our friend Lokesh's product. AI-powered file organization. Runs at [filexai.com](https://filexai.com). We support him and cross-promote.
 
-**Cross-promo when Filex is live:**
-- MASTERMIND → "Works with Filex for [use case]." Link.
-- Phyllux → "Filex leverages Phyllux [tech]." Link.
-- Filex → "Coordinate with MASTERMIND. Build on Phyllux."
-
-**Placeholder:** Create a `FILEX.md` or add to registry when you have details. For now, reserve a slot in cross-promo matrix.
+**Cross-promo:**
+- Phyllux/MASTERMIND → Link to Filex on partners, ecosystem, about. "Check out Filex by Lokesh."
+- Attribution: Always credit Lokesh. Filex is his product, not ours.
 
 ---
 
@@ -122,7 +118,7 @@ Options for others to participate:
 - [ ] Add "Partnership" line to MASTERMIND README (contact for affiliates, integrations)
 
 ### When Ready
-- [ ] Filex description added. Cross-promo links from MASTERMIND, Phyllux.
+- [x] Filex attributed to Lokesh. filexai.com. Cross-promo from Phyllux site.
 - [ ] partners.html → "MASTERMIND & Ecosystem Partners" section
 - [ ] Gumroad/LS affiliate program set up
 - [ ] Affiliate signup page or doc
@@ -140,7 +136,7 @@ Options for others to participate:
 
 **Open door:** Affiliates, resellers, integrators, module creators. Revenue share. Commission. Mutual benefit. Advertise on partners page, README, ecosystem.
 
-**Filex:** Add when you have details. Reserve slot in matrix.
+**Filex:** Lokesh's product at filexai.com. We support and link. Never claim as ours.
 
 **Next step:** Update ecosystem.html with MASTERMIND link. Add partnership blurb to MASTERMIND README. Consider partners.html "Ecosystem Partners" section.
 

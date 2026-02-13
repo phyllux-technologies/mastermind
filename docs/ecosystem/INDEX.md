@@ -22,7 +22,7 @@
 | **MERCHANT_SETUP_TEMPLATE** | Template to fill when you choose payment platform (Gumroad, LemonSqueezy, Stripe) |
 | **[MODULE_DELIVERY_GUIDE](MODULE_DELIVERY_GUIDE.md)** | Module packaging, delivery flow, readiness checklist. Never caught off guard |
 | **[MODULE_PROTECTION](MODULE_PROTECTION.md)** | Anti-piracy, anti-cheating. Attack vectors, technical + psychological countermeasures |
-| **[10_CROSS_PROMOTION_AND_PARTNERSHIPS](10_CROSS_PROMOTION_AND_PARTNERSHIPS.md)** | Cross-promo MASTERMIND ↔ Phyllux ↔ Filex. Partnership model. Affiliates. Open door |
+| **[10_CROSS_PROMOTION_AND_PARTNERSHIPS](10_CROSS_PROMOTION_AND_PARTNERSHIPS.md)** | Cross-promo MASTERMIND ↔ Phyllux. Support Filex (Lokesh, filexai.com). Partnership model. Affiliates. Open door |
 
 ---
 

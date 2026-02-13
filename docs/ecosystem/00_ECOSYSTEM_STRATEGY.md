@@ -161,7 +161,7 @@
 - **Slack / Teams** — Notifications, propagation summaries. Future integration.
 - **Other coordination tools** — MASTERMIND doesn't replace; it augments. Plays well with others.
 
-**Partnership potential:** Cursor, IDE makers, workflow tools — explore collaborations that benefit all parties. Cross-promote with Phyllux, ENGENICA, Filex. Affiliates, resellers, integrators — open door. See 10_CROSS_PROMOTION_AND_PARTNERSHIPS.
+**Partnership potential:** Cursor, IDE makers, workflow tools — explore collaborations that benefit all parties. Cross-promote with Phyllux, ENGENICA. Support Filex (Lokesh's product at filexai.com). Affiliates, resellers, integrators — open door. See 10_CROSS_PROMOTION_AND_PARTNERSHIPS.
 
 ---
 
